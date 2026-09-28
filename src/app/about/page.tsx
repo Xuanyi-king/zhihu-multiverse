@@ -162,12 +162,12 @@ export default function AboutPage() {
           </a>
           <span className="text-meta text-[color:var(--sil-ink-400)]">仓库</span>
           <a
-            href="https://github.com/xuanyi-niubi/zhihu-multiverse"
+            href="https://github.com/Xuanyi-king/zhihu-multiverse"
             target="_blank"
             rel="noreferrer noopener"
             className="inline-flex min-h-11 items-center text-meta text-[color:var(--sil-zhihu-soft)] underline decoration-dotted underline-offset-4 transition-colors duration-200 hover:text-[color:var(--sil-ink-100)]"
           >
-            xuanyi-niubi/zhihu-multiverse
+            Xuanyi-king/zhihu-multiverse
           </a>
         </div>
         <p className="mt-3 text-meta leading-relaxed text-[color:var(--sil-ink-400)]">
